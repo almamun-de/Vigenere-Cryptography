@@ -4,6 +4,9 @@ A Python implementation of the Vigenère cipher, including both encryption and d
 ## Overview
 This project provides a simple implementation of the Vigenère cipher in Python. The Vigenère cipher is a method of encrypting alphabetic text by using a series of different Caesar ciphers based on the letters of a keyword. This project includes functions for both encryption and decryption.
 
+## Additional Resources
+For a detailed explanation of how the Vigenère cipher works, see [HOW_IT_WORKS.md](HOW_IT_WORKS.md).
+
 ## Features
 - **Encryption**: Convert plaintext into ciphertext using a keyword.
 - **Decryption**: Convert ciphertext back into plaintext using the same keyword.
