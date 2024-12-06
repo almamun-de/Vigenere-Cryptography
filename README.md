@@ -27,4 +27,12 @@ To use the script, you can run it directly from the command line. The script wil
     - Run the script and enter the ciphertext and the same keyword when prompted.
     - The script will output the decrypted message (plaintext).
 
+```bash
+# Example command to run the script
+python vigenere_cipher.py
 
+## Sample Output
+Enter the message: HELLO WORLD
+Enter the keyword: KEY
+Encrypted Message: RIJVS UYVJN
+Decrypted Message: HELLO WORLD
